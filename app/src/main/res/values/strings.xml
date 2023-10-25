@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuizKt</string>
+    <string name="question1_text">Czy to prawda?</string>
+    <string name="question2_text">Spaghetti jest dobre?</string>
+    <string name="question3_text">Czerwone światło jest jaśniejsze od zielonego?</string>
+    <string name="question4_text">Wiosna jest lepsza od jesieni?</string>
+    <string name="question5_text">Brass Birmingham to najlepsza gra planszowa?</string>
+    <string name="true_button">Prawda</string>
+    <string name="false_button">Fałsz</string>
+    <string name="correct_toast">Poprawna odpowiedź!</string>
+    <string name="incorrect_toast">Niepoprawna odpowiedź!</string>
+    <string name="next_button">Następne pytanie</string>
+    <string name="warning_text">Czy na pewno chciałbyś to zrobić?</string>
+    <string name="show_answer_button">Pokaż odpowiedź</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Oszukiwanie jest złe!</string>
+</resources>
